@@ -1,4 +1,6 @@
 // C program to find the prime factors of a number 
+//ADITYA GOGOI , ROLL NO -15
+// 25-09-2024
 #include <stdio.h>
 
 int main() {
