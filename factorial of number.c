@@ -1,3 +1,6 @@
+//Assignment 3- Calculate the Factorial of a number using a function
+//ADitya Gogoi(Roll No-15)
+//26-09-2024
 #include <stdio.h>
 int fact(int);
 void main()
