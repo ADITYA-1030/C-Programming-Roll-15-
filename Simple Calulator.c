@@ -1,3 +1,6 @@
+// Assignment 3- C Program to implement a simple calculator to perform basic arithmetic operations.
+//Aditya Gogoi(Roll No-15)
+//26.09.2024
 #include <stdio.h>
 int main()
 {
