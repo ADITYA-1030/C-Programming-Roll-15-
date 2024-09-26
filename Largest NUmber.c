@@ -1,3 +1,6 @@
+//Assignment 2- C Program to find the largest of three number using a Function
+//Aditya Gogoi (Roll No-15)
+//26-09-2-2024
 #include<stdio.h>  
   
 int biggest(int, int, int); // function prototype  
